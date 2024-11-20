@@ -1,0 +1,3 @@
+C:/Users/gwyna/Documents/cpp/school/1/school-act/cmake-build-debug/CMakeFiles/school_act.dir
+C:/Users/gwyna/Documents/cpp/school/1/school-act/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gwyna/Documents/cpp/school/1/school-act/cmake-build-debug/CMakeFiles/rebuild_cache.dir
